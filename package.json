@@ -1,0 +1,19 @@
+{
+  "name": "central-de-erros",
+  "version": "1.0.0",
+  "description": "Projeto para gerenciamento de logs de erros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otaviobr/central-de-erro.git"
+  },
+  "author": "Otávio Veríssimo Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otaviobr/central-de-erro/issues"
+  },
+  "homepage": "https://github.com/otaviobr/central-de-erro#readme"
+}
